@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @castle
 - 👀 I’m interested in deeper learning on Javascript, and front end web developement
-- 🌱 I’m currently learning array methods and objects
+- 🌱 I’m currently learning array methods and objects as well as creative ways to implement coding into my life to make tasks easier while learning
 - 💞️ I’m looking to collaborate on anything I can learn something new on
 - 📫 Not yet
 
