@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @castle
 - 👀 I’m interested in deeper learning on Javascript, and full stack web developement
-- 🌱 I’m currently struggling to make basic full stack apps
+- 🌱 I’m currently learning 3rd party user authentication && MVC
 - 💞️ I’m looking to collaborate on anything I can learn something new on
 
 <!---
