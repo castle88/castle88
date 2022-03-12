@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h1>I used to know alittle, now I know a lot. <br />I am, however, still whoa dude from the block!</h1>
-<p>Over the last year I worked very hard to transition from a career in the labor industry to the tech industry. I am a very enthusiastic learner and have a strong desire to improve at creating real world applications.</p>
+<p>Over the last year I worked very hard to transition from a career in the labor industry to the tech industry. I am a software engineer specializing in Web development, I have experience in fullstack web development using the MERN stack. I am a very enthusiastic learner and have a strong desire to improve at creating real world applications.</p>
 
 <!---
 castle88/castle88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
