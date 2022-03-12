@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<h1>I used to know alittle, now I know a lot. <br />I am, however, still whoa dude from the block!</h1>
-<p>Over the last year I worked very hard to transition from a career in the labor industry to the tech industry. I am a software engineer specializing in Web development, I have experience in fullstack web development using the MERN stack. I am a very enthusiastic learner and have a strong desire to improve at creating real world applications.</p>
+<h1>Hello Traveler, I am Whoa Dude. Welcome to my GitHub</h1>
+<p>I am a full-stack software engineer with a passion for building real-world web applications</p>
+<p>I am currently working on Infinite-Stats, an application for tracking performance in the game Halo Infinite</p>
+<p>I'm looking to collaborate on inspiring projects with real-wrold utility</p>
 <h2>Notable Projects</h2>
 <div>Projects here</div>
 <h2>Notable Contributions</h2>
