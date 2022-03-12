@@ -5,7 +5,7 @@
 <p>I'm looking to collaborate on inspiring projects with real-wrold utility</p>
 <a href='https://www.linkedin.com/'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </a>
-<a href='https://www.Twitter.com/'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
+<a href='https://twitter.com/Castle32554290'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
 </a>
 <h2>Notable Projects</h2>
 <div>Projects here</div>
