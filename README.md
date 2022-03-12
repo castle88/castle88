@@ -3,6 +3,7 @@
 <p>I am a full-stack software engineer with a passion for building real-world web applications</p>
 <p>I am currently working on Infinite-Stats, an application for tracking performance in the game Halo Infinite</p>
 <p>I'm looking to collaborate on inspiring projects with real-wrold utility</p>
+<a href='https://www.linkedin.com/in/gerard-strecker-085a6b221/'>LinkedIn</a>
 <h2>Notable Projects</h2>
 <div>Projects here</div>
 <h2>Notable Contributions</h2>
