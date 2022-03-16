@@ -15,15 +15,24 @@
 <br />
 <h2>Notable Projects</h2>
 <div>
-  <ul style='list-sttyle: none; display: flex;'>
+  <ul>
     <li>
       <h4>Infinite-Stats</h4>
+      <a href='#'>Infinite-Stats</a>
+      <br />
+      <p>An application for tracking your Halo Infinite multiplayer service record. This app was built using the MERN stack an offered numerous opportunities to learn.</p>
     </li>
-    <li>
+     <li>
       <h4>Infinite-Stats</h4>
+      <a href='#'>Infinite-Stats</a>
+      <br />
+      <p>An application for tracking your Halo Infinite multiplayer service record. This app was built using the MERN stack an offered numerous opportunities to learn.</p>
     </li>
-    <li>
+     <li>
       <h4>Infinite-Stats</h4>
+      <a href='#'>Infinite-Stats</a>
+      <br />
+      <p>An application for tracking your Halo Infinite multiplayer service record. This app was built using the MERN stack an offered numerous opportunities to learn.</p>
     </li>
   </ul>
 </div>
