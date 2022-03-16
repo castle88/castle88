@@ -15,7 +15,7 @@
 <br />
 <h2>Notable Projects</h2>
 <div>
-  <ul style={ list-style: none;}>
+  <ul style='list-style: none;'>
     <li>
       <h4>Infinite-Stats</h4>
     </li>
