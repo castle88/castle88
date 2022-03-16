@@ -29,10 +29,10 @@
       <p>A landing page for a clients delivery business. I was task with building a web page for a client who provided very little which offered an interesting challenge of spicing up a barebones web page. I used parralax scrolling to inject some razzle dazzle.</p>
     </li>
      <li>
-      <h4>Infinite-Stats</h4>
-      <a href='#'>Infinite-Stats</a>
+      <h4>Shrinkenator</h4>
+      <a href='#'>Shrinkenator</a>
       <br />
-      <p>An application for tracking your Halo Infinite multiplayer service record. This app was built using the MERN stack and offered numerous opportunities to learn.</p>
+      <p>An application for trimming up unweildy links into a neat package. This app was built using the MERN stack.</p>
     </li>
   </ul>
 </div>
