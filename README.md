@@ -12,8 +12,10 @@
 </a>
 <a href='https://twitter.com/Castle32554290'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
 </a>
+<br />
 <h2>Notable Projects</h2>
 <div>Projects here</div>
+<br />
 <h2>Notable Contributions</h2>
 <div>Contributions here</div>
 <!---
@@ -41,4 +43,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSql"  alt="PostgreSql" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/d3/d3-plain.svg" title="D3"  alt="D3" width="40" height="40"/>&nbsp; 
+
 </div>
