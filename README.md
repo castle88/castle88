@@ -14,7 +14,19 @@
 </a>
 <br />
 <h2>Notable Projects</h2>
-<div>Projects here</div>
+<div>
+  <ul>
+    <li>
+      <h4>Infinite-Stats</h4>
+    </li>
+    <li>
+      <h4>Infinite-Stats</h4>
+    </li>
+    <li>
+      <h4>Infinite-Stats</h4>
+    </li>
+  </ul>
+</div>
 <br />
 <h2>Notable Contributions</h2>
 <div>Contributions here</div>
