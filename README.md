@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<h1>Hello Traveler, I am Whoa Dude. Welcome to my GitHub</h1>
+<h1>Hello Explorer, I am Whoa Dude. Welcome to my GitHub</h1>
 <p>I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.</p>
 <br />
 <h2>Growth</h2>
