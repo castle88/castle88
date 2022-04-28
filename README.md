@@ -5,9 +5,6 @@
 <h2>Growth</h2>
 <p>Most recently, I've committed myself it contributing to open source and improving my git workflow to more closely resemble that of a production environment</p>
 <br />
-<h2>Current Project</h2>
-<p>I've been wittling away at my 100hours project Infinite-Stats. I have been integrating authentication of users via JWT. The process has shined light on many knowledge gaps and I am eager to learn a variety of ways to persist users on the clientside with react context or perhaps redux toolkit</p>
-
 <a href='https://www.linkedin.com/'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </a>
 <a href='https://twitter.com/Castle32554290'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
