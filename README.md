@@ -2,8 +2,6 @@
 <h1>Hello Explorer, welcome to my GitHub</h1>
 <p>I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.</p>
 <br />
-<h2>Growth</h2>
-<p>Most recently, I've committed myself it contributing to open source and improving my git workflow to more closely resemble that of a production environment</p>
 <br />
 <a href='https://www.linkedin.com/'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </a>
