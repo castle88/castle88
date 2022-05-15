@@ -10,7 +10,8 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoadood)](https://github.com/whoadood/github-readme-stats)
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=whoadood&layout=compact' alt='user stats'></img>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=whoadood&layout=compact' alt='whoadood'></img>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=whoadood&' alt='whoadood'></img>
 
 <!---
 castle88/castle88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
