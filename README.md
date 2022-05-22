@@ -4,9 +4,9 @@
 I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.
 <br />
 <br />
-<a href='https://www.linkedin.com/'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+<a href='https://www.linkedin.com/in/gstrecker'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </a>
-<a href='https://twitter.com/Castle32554290'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
+<a href='https://twitter.com/whoa__dood'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
 </a>
 <br />
 
