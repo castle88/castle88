@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-### Hello Explorer, welcome to my GitHub
+<h2>Hello Explorer, welcome to my GitHub</h2>
 
-- I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.
+I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.
 <br />
 <br />
 <a href='https://www.linkedin.com/'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
