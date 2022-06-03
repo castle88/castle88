@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h2>Hello Explorer, welcome to my GitHub</h2>
-<img src='https://www.codewars.com/users/Whoa_dude/badges/large' />
+
 I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.
 <br />
 <br />
@@ -9,7 +9,7 @@ I'm a self-taught full stack web developer with a passion for learning and impro
 <a href='https://twitter.com/whoa__dood'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
 </a>
 <br />
-
+<img src='https://www.codewars.com/users/Whoa_dude/badges/large' />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoadood)](https://github.com/whoadood/github-readme-stats)
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=whoadood&' alt='whoadood'></img>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=whoadood&layout=compact' alt='whoadood'></img>
