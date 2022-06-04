@@ -4,6 +4,7 @@
 I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.
 <br />
 <br />
+<div style={{display: 'flex', justifyContent: 'center'}}>
 <a href='https://www.linkedin.com/in/gstrecker'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </a>
 <a href='https://twitter.com/whoa__dood'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
@@ -13,7 +14,7 @@ I'm a self-taught full stack web developer with a passion for learning and impro
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoadood)](https://github.com/whoadood/github-readme-stats)
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=whoadood&' alt='whoadood'></img>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=whoadood&layout=compact' alt='whoadood'></img>
-
+<div>
 <!---
 castle88/castle88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
