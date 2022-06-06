@@ -13,6 +13,7 @@ I'm a self-taught full stack web developer with a passion for learning and impro
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoadood)](https://github.com/whoadood/github-readme-stats)
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=whoadood&' alt='whoadood'></img>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=whoadood&layout=compact' alt='whoadood'></img>
+<br />
 ![](https://komarev.com/ghpvc/?username=whoadood&color=blueviolet)
 <!---
 castle88/castle88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
