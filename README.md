@@ -47,10 +47,8 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" title="D3"  alt="D3" width="40" height="40"/>&nbsp;  -->
 </div>
 
-
+# Work Samples
 https://user-images.githubusercontent.com/82413454/177395920-a7bafa6a-25be-44e2-82e9-715d5f7dcd4c.mp4
-
-
 https://user-images.githubusercontent.com/82413454/177395939-03780a27-a423-4ad2-b74f-26ea846cf347.mp4
 
 
