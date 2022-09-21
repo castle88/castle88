@@ -41,12 +41,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp; 
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresQL"  alt="PostgresQL" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresQL"  alt="PostgresQL" width="40" height="40"/>&nbsp;
+  <img title='prisma' alt='prisma' width='80' src='https://user-images.githubusercontent.com/82413454/191468427-0e2a965a-a88f-4021-96a8-5a608a520d99.svg' />
+  
   <h3>Hosting</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"  title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp; 
   <img src="https://user-images.githubusercontent.com/82413454/191464749-4bd02ee4-030e-494d-a62f-0e5343b6753e.png" title='Netlify' width='40' height='40' />
   <img width="40" height='40' alt="vercel-logo" title='Vercel' src="https://user-images.githubusercontent.com/82413454/191465072-df998bdb-d0ab-4e65-9e36-c8d55af2b122.png">
-<img title='prisma' alt='prisma' height='40' width='40' src='https://user-images.githubusercontent.com/82413454/191468427-0e2a965a-a88f-4021-96a8-5a608a520d99.svg' />
+
 
 
 
