@@ -45,7 +45,9 @@ You can click the Preview link to take a look at your changes.
   <img title='Prisma' alt='prisma' width='80' src='https://user-images.githubusercontent.com/82413454/191468427-0e2a965a-a88f-4021-96a8-5a608a520d99.svg' />
   <img title='Passport.js' width='40' src='https://user-images.githubusercontent.com/82413454/191476444-ceefeca8-640b-4951-bca2-ef97a340f573.png' />
   <img title='nextauth' alt='nextauth' width='40' src='https://user-images.githubusercontent.com/82413454/191476111-8abe4be0-82b2-471b-bd4f-30a1eaef0375.png' />
+  <img title='postman' alt='postman' width='40' src='postman-logo" src="https://user-images.githubusercontent.com/82413454/191562671-36ee065d-8eb9-48ea-b33d-3a4657426712.png' />
   
+
 
   
   <h3>Hosting</h3>
