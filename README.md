@@ -10,11 +10,10 @@ I'm a self-taught full stack web developer with a passion for learning and impro
 </a>
 <br />
 <img src='https://www.codewars.com/users/Whoa_dude/badges/large' />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoadood)](https://github.com/whoadood/github-readme-stats)
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=whoadood&' alt='whoadood'></img>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=whoadood&layout=compact' alt='whoadood'></img>
-<br />
-![](https://komarev.com/ghpvc/?username=whoadood&color=blueviolet)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Whoa_dude&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Whoa_dude&langs_count=5&theme=tokyonight)]()
+
+
 <!---
 castle88/castle88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
