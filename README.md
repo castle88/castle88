@@ -13,6 +13,8 @@ I'm a self-taught full stack web developer with a passion for learning and impro
 <br />
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whoadood&count_private=true&theme=tokyonight&showicons=true)]()
 <br />
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoadood&theme=tokyonight&hide_border=true)]()
+<br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whoadood&langs_count=5&theme=tokyonight)]()
 
 
