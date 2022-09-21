@@ -20,7 +20,8 @@ castle88/castle88 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  <h2>My Stack</h2>
+  <h2>My Tools</h2>
+  
   <h3>Front End</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,6 +30,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+    <img width='40' height='40' alt='tailwind css' title'tailwind' src='https://user-images.githubusercontent.com/82413454/191466121-51498764-0a54-4aa0-9da4-41e0a92b6578.png' />
+  
   <h3>Back End</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="40"/>&nbsp;
@@ -39,6 +42,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"  title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp; 
   <img src="https://user-images.githubusercontent.com/82413454/191464749-4bd02ee4-030e-494d-a62f-0e5343b6753e.png" title='Netlify' width='40' height='40' />
   <img width="40" height='40' alt="vercel-logo" title='Vercel' src="https://user-images.githubusercontent.com/82413454/191465072-df998bdb-d0ab-4e65-9e36-c8d55af2b122.png">
+
+
 
 
 
