@@ -45,10 +45,10 @@ You can click the Preview link to take a look at your changes.
   <h3>Learning</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql"  alt="graphql" width="40" height="40"/>&nbsp;
-      
+      <img src='https://user-images.githubusercontent.com/82413454/191451583-210c833a-671e-4103-93fd-1004215e39f4.png' title='tRPC' width='40' height='40' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp; 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" title="D3"  alt="D3" width="40" height="40"/>&nbsp;  -->
-<img src='https://user-images.githubusercontent.com/82413454/191451583-210c833a-671e-4103-93fd-1004215e39f4.png' title='tRPC' width='40' height='40' />
+
 
 
 </div>
