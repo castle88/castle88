@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
   <h3>Hosting</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"  title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp; 
   <img src="https://user-images.githubusercontent.com/82413454/191464749-4bd02ee4-030e-494d-a62f-0e5343b6753e.png" title='netlify' width='40' height='40' />
+  <img width="40" height='40' alt="vercel-logo" src="https://user-images.githubusercontent.com/82413454/191465072-df998bdb-d0ab-4e65-9e36-c8d55af2b122.png">
 
 
 
@@ -45,9 +46,10 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql"  alt="graphql" width="40" height="40"/>&nbsp;
       
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;  -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp; 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" title="D3"  alt="D3" width="40" height="40"/>&nbsp;  -->
 <img src='https://user-images.githubusercontent.com/82413454/191451583-210c833a-671e-4103-93fd-1004215e39f4.png' title='tRPC' width='40' height='40' />
+
 
 </div>
 
