@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp; 
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresQL"  alt="PostgresQL" width="40" height="40"/>&nbsp;
-  <img title='prisma' alt='prisma' width='80' src='https://user-images.githubusercontent.com/82413454/191468427-0e2a965a-a88f-4021-96a8-5a608a520d99.svg' />
-  
+  <img title='Prisma' alt='prisma' width='80' src='https://user-images.githubusercontent.com/82413454/191468427-0e2a965a-a88f-4021-96a8-5a608a520d99.svg' />
+  <img title='Passport.js' width='40' src='https://user-images.githubusercontent.com/82413454/191476444-ceefeca8-640b-4951-bca2-ef97a340f573.png' />
   <img title='nextauth' alt='nextauth' width='40' src='https://user-images.githubusercontent.com/82413454/191476111-8abe4be0-82b2-471b-bd4f-30a1eaef0375.png' />
   
 
