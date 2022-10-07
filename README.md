@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"  title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp; 
   <img src="https://user-images.githubusercontent.com/82413454/191464749-4bd02ee4-030e-494d-a62f-0e5343b6753e.png" title='Netlify' width='40' height='40' />
   <img width="40" height='40' alt="vercel-logo" title='Vercel' src="https://user-images.githubusercontent.com/82413454/191465072-df998bdb-d0ab-4e65-9e36-c8d55af2b122.png">
-<img width="40" height='40' alt="railway-logo" title='Railway' src="https://user-images.githubusercontent.com/82413454/194641031-ed59ac93-b950-48e2-9fe4-72fc436af94e.png">
+<img width="40" height='40' alt="railway-logo" title='Railway' src="https://user-images.githubusercontent.com/82413454/194641725-d2422aea-1b39-4d87-870a-59c9685fcdd3.png">
 
 
 
