@@ -1,8 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-![portfolio](https://user-images.githubusercontent.com/82413454/201549514-8fcc87c4-f8be-4853-95fd-d48c11bf533c.png)
-
-
 <br />
 <br />
 <a href='https://www.linkedin.com/in/gstrecker'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
@@ -12,6 +8,10 @@
 <br />
 <img src='https://www.codewars.com/users/Whoa_dude/badges/large' />
 <br />
+
+![portfolio](https://user-images.githubusercontent.com/82413454/201549514-8fcc87c4-f8be-4853-95fd-d48c11bf533c.png)
+<br />
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whoadood&count_private=true&theme=tokyonight&showicons=true)]()
 <br />
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoadood&theme=tokyonight&hide_border=false)]()
