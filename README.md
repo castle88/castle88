@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<h2>Hello Explorer, welcome to my GitHub</h2>
 
-I'm a self-taught full stack web developer with a passion for learning and improving my skillset through building real-world applications.
+![portfolio](https://user-images.githubusercontent.com/82413454/201549514-8fcc87c4-f8be-4853-95fd-d48c11bf533c.png)
+
+
 <br />
 <br />
 <a href='https://www.linkedin.com/in/gstrecker'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
@@ -69,11 +70,4 @@ You can click the Preview link to take a look at your changes.
 
 
 </div>
-
-# Work Samples!
-
-https://user-images.githubusercontent.com/82413454/177395920-a7bafa6a-25be-44e2-82e9-715d5f7dcd4c.mp4
-
-https://user-images.githubusercontent.com/82413454/177395939-03780a27-a423-4ad2-b74f-26ea846cf347.mp4
-
 
