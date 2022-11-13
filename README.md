@@ -1,13 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <br />
-<br />
 <a href='https://www.linkedin.com/in/gstrecker'>  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </a>
 <a href='https://twitter.com/whoa__dood'>  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
 </a>
 <br />
 <img src='https://www.codewars.com/users/Whoa_dude/badges/large' />
-<br />
 
 ![portfolio](https://user-images.githubusercontent.com/82413454/201549514-8fcc87c4-f8be-4853-95fd-d48c11bf533c.png)
 <br />
