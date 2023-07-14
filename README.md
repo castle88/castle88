@@ -7,9 +7,6 @@
 <br />
 <img src='https://www.codewars.com/users/Whoa_dude/badges/large' />
 
-![aboutme](https://user-images.githubusercontent.com/82413454/202210233-9de0db79-69f0-4de1-b465-994a299a39cf.png)
-<br />
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whoadood&count_private=true&theme=tokyonight&showicons=true)]()
 <br />
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoadood&theme=tokyonight&hide_border=false)]()
